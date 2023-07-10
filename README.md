@@ -1,5 +1,5 @@
 # filetypeidentify
-Easily find the type of file instantly!
+Easily analyze the file extension instantly!
 
 Only provide binary release for Windows, See notes below
 
